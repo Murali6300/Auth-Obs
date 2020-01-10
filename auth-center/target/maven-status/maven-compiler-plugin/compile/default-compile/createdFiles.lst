@@ -1,0 +1,9 @@
+com\ojas\security\auth\dao\UserDao.class
+com\ojas\security\auth\service\impl\UserDetailsServiceImpl.class
+com\ojas\security\auth\model\AppUserMapper.class
+com\ojas\security\auth\dao\impl\UserDaoImpl.class
+com\ojas\security\auth\dao\impl\RoleDaoImpl.class
+com\ojas\security\auth\Application.class
+com\ojas\security\auth\model\AppUser.class
+com\ojas\security\auth\SecurityConfig.class
+com\ojas\security\auth\dao\RoleDao.class
